@@ -5,5 +5,3 @@ channels:
 dependencies:
   - xeus-r >= 0.7.0
   - r-ggplot2
-  - r-msar
-  - r-ape
