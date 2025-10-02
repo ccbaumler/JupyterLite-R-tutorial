@@ -7,6 +7,12 @@
       "jupyterlab-server-proxy",
       "nbdime-jupyterlab"
     ],
-    "terminalsAvailable": true
+    "terminalsAvailable": true,
+    "litePluginSettings": {
+      "@r-wasm/webr-kernel-extension:kernel": {
+        "baseUrl": "https://webr.r-wasm.org/latest/",
+        "repoUrl": "https://repo.r-wasm.org/"
+      }
+    }
   }
 }
