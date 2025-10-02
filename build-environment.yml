@@ -32,3 +32,4 @@ dependencies:
 - pip:
   - jupyterlite-xeus-sqlite==0.2.1
   - jupyterlab-open-url-parameter >=0.3.0
+  - jupyterlite-webr
